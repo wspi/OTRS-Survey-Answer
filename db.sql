@@ -1,0 +1,1 @@
+create table survey_processed (id int(11) NOT NULL AUTO_INCREMENT, request_id int(11) NOT NULL, process_time datetime NOT NULL, PRIMARY KEY (ID));
